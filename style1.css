@@ -10,7 +10,7 @@ body{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    color: rgb(86, 62, 62);
+    color: rgb(163, 73, 73);
 }
 
 .container{
@@ -26,13 +26,13 @@ body{
 .b1,.b2,.b3,.b4{
     height:400px ;
     width: 300px;
-    background-color: rgb(144, 205, 196);
+    background-color: rgb(70, 4, 156);
 }
 
 .mainbox{
     height:400px ;
     width: 300px;
-    background-color: rgb(160, 227, 218);
+    background-color: rgb(159, 36, 108);
     grid-template-columns: repeat(2, 1fr);
     grid-template-row: repeat(2, 1fr);
     display: grid;
